@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luccasales
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer cience
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me lucca.teodoro@aluno.ufop.br
 
